@@ -1,6 +1,7 @@
 # Excel_to_Shapefile
 Convert .xlsx Excel spreadsheets to Esri shapefiles.
-Brian Amos, twitter @brianamos
+
+By Brian Amos, twitter @brianamos.
 
 Requires the openpyxl and fiona packages, built in Python 3.7.
 
